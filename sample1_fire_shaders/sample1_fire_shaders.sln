@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sample1_fire_shaders", "sample1_fire_shaders\sample1_fire_shaders.vcxproj", "{87A746B7-8D5B-49EC-9BB0-4DC939C6891A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A746B7-8D5B-49EC-9BB0-4DC939C6891A}.Debug|x64.ActiveCfg = Debug|x64
+		{87A746B7-8D5B-49EC-9BB0-4DC939C6891A}.Debug|x64.Build.0 = Debug|x64
+		{87A746B7-8D5B-49EC-9BB0-4DC939C6891A}.Debug|x86.ActiveCfg = Debug|Win32
+		{87A746B7-8D5B-49EC-9BB0-4DC939C6891A}.Debug|x86.Build.0 = Debug|Win32
+		{87A746B7-8D5B-49EC-9BB0-4DC939C6891A}.Release|x64.ActiveCfg = Release|x64
+		{87A746B7-8D5B-49EC-9BB0-4DC939C6891A}.Release|x64.Build.0 = Release|x64
+		{87A746B7-8D5B-49EC-9BB0-4DC939C6891A}.Release|x86.ActiveCfg = Release|Win32
+		{87A746B7-8D5B-49EC-9BB0-4DC939C6891A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFE3CBEA-EB3C-4A10-AC4E-3AE1B0E80B8A}
+	EndGlobalSection
+EndGlobal
