@@ -1,0 +1,106 @@
+﻿  pch.cpp
+  AbsEaseAnimation.cpp
+  AlphaEaseAnimation.cpp
+  Ease.cpp
+  LinearEase.cpp
+  MoveEaseAnimation.cpp
+  Assets.cpp
+  Audio.cpp
+  BaseComponent.cpp
+  Hack3dEngine.cpp
+  Game.cpp
+  Animation.cpp
+  AnimationStep.cpp
+  Screen.cpp
+  Button.cpp
+  PointerEventInfo.cpp
+  ImageView.cpp
+  ViewManager.cpp
+  Padding.cpp
+  View.cpp
+  Camera.cpp
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\graphics\camera\camera.cpp(129): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\graphics\camera\camera.cpp(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  CubeMap.cpp
+  FireObj.cpp
+  DirectionalLight.cpp
+  Light.cpp
+  ColorMaterial.cpp
+  Material.cpp
+  TextureMaterial.cpp
+  PointLight.cpp
+  SpotLight.cpp
+  Mesh.cpp
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\graphics\mesh\mesh.cpp(40): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Model.cpp
+  Object3D.cpp
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\graphics\object3d.cpp(52): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=GLfloat
+          ]
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\graphics\object3d.cpp(147): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  FragmentShader.cpp
+  GLFWGraphics.cpp
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\graphics\glfwgraphics.cpp(70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Graphics.cpp
+  GeometryShader.cpp
+  Shader.cpp
+  ShaderProgram.cpp
+  Texture2D.cpp
+  TextureRegion2D.cpp
+  Generating Code...
+  Compiling...
+  VertexShader.cpp
+  WaterFrameBuffers.cpp
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\graphics\waterframebuffers.cpp(3): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\graphics\waterframebuffers.cpp(4): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  WaterObj.cpp
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\graphics\waterobj.cpp(38): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\graphics\waterobj.cpp(47): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  GLFWInput.cpp
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\input\glfwinput.cpp(37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\input\glfwinput.cpp(38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Input.cpp
+  CollisionUtil.cpp
+  Color.cpp
+  FileManager.cpp
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\util\filemanager.cpp(5): warning C4834: discarding return value of function with 'nodiscard' attribute
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\util\filemanager.cpp(11): warning C4834: discarding return value of function with 'nodiscard' attribute
+  KeyInfo.cpp
+  KinematicsUtil.cpp
+  MyColor.cpp
+  PointerInfo.cpp
+  Rect.cpp
+  Util.cpp
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\util\util.cpp(16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\util\util.cpp(20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\util\util.cpp(28): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\util\util.cpp(32): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\core\src\util\util.cpp(89): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Utils2.cpp
+  Vec2.cpp
+  Entity.cpp
+  TestGL.cpp
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\instance\src\game\model\entity\test\testgl.cpp(114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  GameWorld.cpp
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\instance\src\game\model\gameworld.cpp(22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\instance\src\game\model\gameworld.cpp(36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\instance\src\game\model\gameworld.cpp(42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hack2s\git\sample1_fire_shaders\sample1_fire_shaders\sample1_fire_shaders\instance\src\game\model\gameworld.cpp(54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Sample1FireShadersGame.cpp
+  Generating Code...
+  Compiling...
+  BaseScreen.cpp
+  EndScreen.cpp
+  GameScreen.cpp
+  LogoScreen.cpp
+  MainMenuScreen.cpp
+  Constants.cpp
+  sample1_fire_shaders.cpp
+  Generating Code...
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  sample1_fire_shaders.vcxproj -> C:\Users\hack2s\GIT\sample1_fire_shaders\sample1_fire_shaders\x64\Debug\sample1_fire_shaders.exe
